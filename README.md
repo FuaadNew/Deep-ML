@@ -8,6 +8,7 @@ This repository contains a collection of machine learning exercises and implemen
   - Matrix-Vector Multiplication (`matrix_dot_vector.py`): Implementation of matrix-vector dot product with input validation
   - Matrix Transposition (`transpose_matrix.py`): Implementation of matrix transposition with type hints and input validation
   - Matrix Mean Calculation (`calculate_matrix_mean.py`): Implementation of matrix mean calculation with support for row and column-wise operations
+  - Scalar Multiplication (`scalar_multiply.py`): Implementation of scalar multiplication for matrices with support for integer and float values
 - **Matrix Reshaping Utility**
   - `reshape_matrix`: A utility function for reshaping 2D matrices while preserving element order
 
