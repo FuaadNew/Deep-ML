@@ -9,6 +9,7 @@ This repository contains a collection of machine learning exercises and implemen
   - Matrix Transposition (`transpose_matrix.py`): Implementation of matrix transposition with type hints and input validation
   - Matrix Mean Calculation (`calculate_matrix_mean.py`): Implementation of matrix mean calculation with support for row and column-wise operations
   - Scalar Multiplication (`scalar_multiply.py`): Implementation of scalar multiplication for matrices with support for integer and float values
+  - Eigenvalue Calculator (`calculate_eigenvalues.py`): Implementation of eigenvalue calculation for 2x2 matrices using characteristic equation method
 - **Matrix Reshaping Utility**
   - `reshape_matrix`: A utility function for reshaping 2D matrices while preserving element order
 
