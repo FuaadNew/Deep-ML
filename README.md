@@ -5,6 +5,7 @@ This repository contains a collection of machine learning exercises and implemen
 ## Contents
 
 - **Linear Algebra Operations**
+  - Vector Dot Product (`calculate_dot_product.py`): Implementation of vector dot product calculation using NumPy
   - Matrix-Vector Multiplication (`matrix_dot_vector.py`): Implementation of matrix-vector dot product with input validation
   - Matrix Transposition (`transpose_matrix.py`): Implementation of matrix transposition with type hints and input validation
   - Matrix Mean Calculation (`calculate_matrix_mean.py`): Implementation of matrix mean calculation with support for row and column-wise operations
