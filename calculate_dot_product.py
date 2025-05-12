@@ -15,4 +15,4 @@ class DotProduct:
         # Your code here
         return np.dot(self.vec1, self.vec2)
 
-print(calculate_dot_product(np.array([1, 2, 3]), np.array([4, 5, 6])))
+print(DotProduct(np.array([1, 2, 3]), np.array([4, 5, 6])).calculate_dot_product())
