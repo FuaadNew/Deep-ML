@@ -12,6 +12,7 @@ This repository contains a collection of machine learning exercises and implemen
   - Scalar Multiplication (`scalar_multiply.py`): Implementation of scalar multiplication for matrices with support for integer and float values
   - Eigenvalue Calculator (`calculate_eigenvalues.py`): Implementation of eigenvalue calculation for 2x2 matrices using characteristic equation method
   - Diagonal Matrix Creation (`make_diagonal.py`): Implementation of diagonal matrix creation from input array
+  - Cosine Similarity (`cosine_simularity.py`): Implementation of cosine similarity calculation between vectors with input validation and edge case handling
 - **Matrix Reshaping Utility**
   - `reshape_matrix`: A utility function for reshaping 2D matrices while preserving element order
 
